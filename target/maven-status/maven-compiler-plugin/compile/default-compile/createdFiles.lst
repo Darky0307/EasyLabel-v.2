@@ -1,0 +1,16 @@
+com\easylabel\model\ShipmentRequest.class
+com\easylabel\DhlApiClient.class
+com\easylabel\model\OrderData.class
+com\easylabel\ui\MainWindow.class
+com\easylabel\ui\ManuellerDruckPanel$2.class
+com\easylabel\ui\PaketversandPanel$1.class
+com\easylabel\model\CustomsItem.class
+com\easylabel\ui\StornoPanel.class
+com\easylabel\model\LabelResponse.class
+com\easylabel\Main.class
+com\easylabel\model\AddressData.class
+com\easylabel\PlentyApiClient.class
+com\easylabel\ui\SettingsPanel.class
+com\easylabel\ui\ManuellerDruckPanel.class
+com\easylabel\ui\PaketversandPanel.class
+com\easylabel\ui\ManuellerDruckPanel$1.class
